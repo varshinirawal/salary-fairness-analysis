@@ -33,6 +33,9 @@ NumPy<br>
 Scikit-learn<br>
 Seaborn & Matplotlib<br>
 
+the fairness dataset :
+the fairness dataset is outcome after finding the salary gap being more than 0.5 percent the we categorised it into fair,overpaid , underpaid by RMSE proportionate to salary predicted then we pivoted the dataframe so it clearly shows which job role is underpaid or other ways
+
 Conclusion: <br>
 The model successfully predicts salaries with good accuracy; however, fairness analysis reveals that 
 compensation consistency varies across locations. Certain job roles exhibit higher salary instability,
