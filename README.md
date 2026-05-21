@@ -24,7 +24,8 @@ Some roles experience consistent underpayment or overpayment depending on locati
 
 Visualizations:<br>
 Bar Chart → Shows roles with highest salary inconsistency across locations<br>
-Heatmap → Highlights location-wise distribution of underpaid roles<br>
+Heatmap → Highlights location-wise distribution of underpaid roles
+<br>
 
 Tools & Technologies:<br>
 Python<br>
